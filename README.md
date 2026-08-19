@@ -19,7 +19,7 @@ based analysis.
 
 ### [03 — Correlation Engine](03_correlation_engine/) *(in development)*
 Reads alert logs produced by Tools 01 and 02 and correlates them to detect 
-multi-stage attack chains — for example, a port scan followed by a brute force 
+multi-stage attack chains. For example, a port scan followed by a brute force 
 attempt followed by an account lockout.
 
 ### [04 — Threat Intelligence Dashboard](04_threat_intelligence/) *(in development)*
