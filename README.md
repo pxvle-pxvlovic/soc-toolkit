@@ -28,9 +28,6 @@ public threat intelligence APIs (VirusTotal, AbuseIPDB, Shodan) and producing
 structured investigation reports.
 
 ## How the tools connect
-Network Traffic Analyzer ──┐
-├──► Correlation Engine ──► Threat Intelligence
-Windows Log Analyzer ──┘
 
 Tools 01 and 02 each produce timestamped `alerts.log` files. Tool 03 reads 
 those logs and correlates events across both sources within configurable time 
