@@ -1,8 +1,8 @@
 # SOC Toolkit
 
 A collection of Python-based blue team security tools built as a self-directed 
-learning project to demonstrate core SOC analyst skills. Each tool addresses a 
-different layer of threat detection — from live network monitoring to log analysis 
+learning project. Each tool addresses a 
+different layer of threat detection; from live network monitoring to log analysis 
 to automated threat intelligence enrichment.
 
 ## Tools
@@ -39,10 +39,8 @@ for automated enrichment.
 - Python 3.x
 - Scapy (`pip install scapy`) — Tool 01 only
 - Npcap (Windows) — Tool 01 only
-- No external dependencies for Tool 02
-
+- 
 ## Author
 
 Pavle Pavlović — Electrical & Computer Engineering Student  
 University of Belgrade, School of Electrical Engineering  
-github.com/pxvle-pxvlovic
