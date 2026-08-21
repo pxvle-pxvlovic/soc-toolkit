@@ -39,7 +39,6 @@ for automated enrichment.
 - Python 3.x
 - Scapy (`pip install scapy`) — Tool 01 only
 - Npcap (Windows) — Tool 01 only
-- 
 ## Author
 
 Pavle Pavlović — Electrical & Computer Engineering Student  
